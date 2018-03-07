@@ -1,3 +1,7 @@
+import com.opencsv.exceptions.CsvDataTypeMismatchException;
+import com.opencsv.exceptions.CsvRequiredFieldEmptyException;
+
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -32,7 +36,6 @@ public class Main {
         List<Callable<Jisho>> callables = createLists(tempList);
 
         // the executor invokes all instantiating of a new object () -> new Jisho(book1); etc
-
         try {
             executor.invokeAll(callables)
                     .stream()
@@ -47,6 +50,18 @@ public class Main {
                     .forEach((book) -> {
                         book.fetchData();
                         System.out.println("this is book searched words " + book.getSearchedWords().toString());
+                        // probably next should take this function and convert to csv
+                        CSV tempCSV = new CSV(book.getSearchedWords(), 2);
+                        try {
+                            tempCSV.convertToCSV();
+                        } catch(IOException e) {
+                            //
+                        } catch(CsvDataTypeMismatchException e){
+                            //
+                        } catch(CsvRequiredFieldEmptyException e) {
+                            //
+                        }
+
                     });
         } catch(InterruptedException e) {
             e.printStackTrace();

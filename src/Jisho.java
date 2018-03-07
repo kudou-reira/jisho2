@@ -33,73 +33,117 @@ public class Jisho {
         return searchedWords;
     }
 
+//    private List<Callable<String>> createWordList() {
+//        List<Callable<String>> tempCallableStrings = new ArrayList<>();
+//        for(String word : wordList) {
+//            tempCallableStrings.add(() -> word);
+//        }
+//        return tempCallableStrings;
+//    }
+
     public void fetchData() {
+
+        wordList.parallelStream().forEach(word -> {
+            query(word);
+        });
+
+//        ExecutorService executor = Executors.newWorkStealingPool();
+
+        // later on have to create the array of words in books?
+        // here, it initializes jisho book (collection of words), but maybe it's better to initialize word by word in a different class
+        // iterate over arraylist of Lists and add lambda functions to them
+
+//        List<Callable<String>> callables = createWordList();
+//
+//        // the executor invokes all instantiating of a new object () -> new Jisho(book1); etc
+//
+//        try {
+//            executor.invokeAll(callables)
+//                    .stream()
+//                    .map(future -> {
+//                        try {
+//                            return future.get();
+//                        }
+//                        catch (Exception e) {
+//                            throw new IllegalStateException(e);
+//                        }
+//                    })
+//                    .forEach((word) -> {
+//                        query(word);
+//                        System.out.println("this is word " + word);
+//                    });
+//        } catch(InterruptedException e) {
+//            e.printStackTrace();
+//        }
+    }
+
+    private void query(String word) {
         // next is making this concurrent
         // right now, the for loop approaches this sequentially
-        // if the book has a many words, we want the fetchData() to run concurrently, not in sequence (for performance reasons)
-        for(String word : wordList) {
+        // if the book has too many words, we want the fetchData() to run concurrently, not in sequence (for performance reasons)
+
+        try {
+            String jishoURL = "http://jisho.org/api/v1/search/words?keyword=";
+            String newWord = "";
+
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.append(jishoURL);
+
             try {
-                String jishoURL = "http://jisho.org/api/v1/search/words?keyword=";
-                String newWord = "";
-
-                StringBuilder stringBuilder = new StringBuilder();
-                stringBuilder.append(jishoURL);
-
-                try {
-                    newWord = URLEncoder.encode(word, "UTF-8");
-                } catch (UnsupportedEncodingException e) {
-                    throw new AssertionError("UTF-8 is unknown");
-                }
-
-                stringBuilder.append(newWord);
-
-                String finalString = stringBuilder.toString();;
-                System.out.println("this is the finalString " + finalString);
-
-                URL jishoRequest = new URL(finalString);
-
-                try {
-                    JSONTokener tokener = new JSONTokener(jishoRequest.openStream());
-                    JSONObject root = new JSONObject(tokener);
-                    System.out.println("this is json object " + root);
-
-                    System.out.println("starting data load");
-                    JSONArray data = root.getJSONArray("data");
-
-                    for(Object entry : data) {
-                        JSONObject castEntry = (JSONObject)(entry);
-                        System.out.println("this is entry " + entry);
-                        // each entry will be part of an arraylist for the word in question
-                        // constructor will have the query
-
-                        // for each entry you get the additional readings and the collection of etymologies
-                        // group this under one word
-                        JSONArray additionalReadings = castEntry.getJSONArray("japanese");
-                        HashMap<String, String> pronounciationCollection = pronounciations(additionalReadings);
-
-                        JSONArray senses = castEntry.getJSONArray("senses");
-                        ArrayList<Etymology> etymologyCollection = definition(senses);
-
-                        Entry tempEntry = new Entry(pronounciationCollection, etymologyCollection);
-
-                        System.out.println("this is pronounciationCollection " + pronounciationCollection);
-                        System.out.println("this etymology collection " + etymologyCollection);
-                        System.out.println("this is new entry");
-                        entries.add(tempEntry);
-
-
-                        // probably have to make another collection object with the word inside
-                    }
-                } catch(IOException ie) {
-                    ie.printStackTrace();
-                }
-
-                searchedWords.add(new Word(word, entries));
-
-            } catch (MalformedURLException e) {
-                e.printStackTrace();
+                newWord = URLEncoder.encode(word, "UTF-8");
+            } catch (UnsupportedEncodingException e) {
+                throw new AssertionError("UTF-8 is unknown");
             }
+
+            stringBuilder.append(newWord);
+
+            String finalString = stringBuilder.toString();;
+            System.out.println("this is the finalString " + finalString);
+
+            URL jishoRequest = new URL(finalString);
+
+            try {
+                JSONTokener tokener = new JSONTokener(jishoRequest.openStream());
+                JSONObject root = new JSONObject(tokener);
+                System.out.println("this is json object " + root);
+
+                System.out.println("starting data load");
+                JSONArray data = root.getJSONArray("data");
+
+                for(Object entry : data) {
+                    JSONObject castEntry = (JSONObject)(entry);
+                    System.out.println("this is entry " + entry);
+                    // each entry will be part of an arraylist for the word in question
+                    // constructor will have the query
+
+                    // for each entry you get the additional readings and the collection of etymologies
+                    // group this under one word
+                    JSONArray additionalReadings = castEntry.getJSONArray("japanese");
+                    HashMap<String, String> pronounciationCollection = pronounciations(additionalReadings);
+
+                    JSONArray senses = castEntry.getJSONArray("senses");
+                    ArrayList<Etymology> etymologyCollection = definition(senses);
+
+                    Entry tempEntry = new Entry(pronounciationCollection, etymologyCollection);
+
+                    System.out.println("this is pronounciationCollection " + pronounciationCollection);
+                    System.out.println("this etymology collection " + etymologyCollection);
+                    System.out.println("this is new entry");
+                    entries.add(tempEntry);
+
+
+                    // probably have to make another collection object with the word inside
+                }
+            } catch(IOException ie) {
+                ie.printStackTrace();
+            }
+
+            searchedWords.add(new Word(word, entries));
+
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
         }
+
     }
 
     // return an Etymology object
