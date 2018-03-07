@@ -1,4 +1,5 @@
 import com.opencsv.CSVWriter;
+import com.opencsv.bean.ColumnPositionMappingStrategy;
 import com.opencsv.bean.StatefulBeanToCsv;
 import com.opencsv.bean.StatefulBeanToCsvBuilder;
 import com.opencsv.exceptions.CsvDataTypeMismatchException;
@@ -12,15 +13,15 @@ import java.util.ArrayList;
 
 public class CSV {
     private String outputPath = "./object-path-sample.csv";
-    private ArrayList<Word> bookWords;
-    private int number;
+//    private ArrayList<Word> bookWords;
 
-    public CSV(ArrayList<Word> bookWords, int number) {
-        this.bookWords = bookWords;
-        this.number = number;
+    //the constructor will probably initialize with filename
+
+    public void test() {
+        System.out.println("this is csv class running");
     }
 
-    public void convertToCSV() throws IOException,
+    public void convertToCSV(ArrayList<Word> bookWords) throws IOException,
             CsvDataTypeMismatchException,
             CsvRequiredFieldEmptyException {
         StringBuilder sb = new StringBuilder(2);
@@ -29,11 +30,23 @@ public class CSV {
         try (
                 Writer writer = Files.newBufferedWriter(Paths.get(sb.toString()));
         ) {
-            StatefulBeanToCsv beanToCsv = new StatefulBeanToCsvBuilder(writer)
+            System.out.println("writing bookwords" + bookWords);
+
+            final String[] CSV_HEADER = { "searchedWords", "entries" };
+            ColumnPositionMappingStrategy<Word> mappingStrategy =
+                    new ColumnPositionMappingStrategy<>();
+
+            mappingStrategy.setType(Word.class);
+            mappingStrategy.setColumnMapping(CSV_HEADER);
+
+            StatefulBeanToCsv<Word> beanToCsv = new StatefulBeanToCsvBuilder<Word>(writer)
+                    .withMappingStrategy(mappingStrategy)
                     .withQuotechar(CSVWriter.NO_QUOTE_CHARACTER)
                     .build();
 
-            System.out.println("bookwords" + bookWords);
+//            StatefulBeanToCsv beanToCsv = new StatefulBeanToCsvBuilder(writer)
+//                    .withQuotechar(CSVWriter.NO_QUOTE_CHARACTER)
+//                    .build();
 
             beanToCsv.write(bookWords);
         }

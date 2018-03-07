@@ -1,6 +1,3 @@
-import com.opencsv.exceptions.CsvDataTypeMismatchException;
-import com.opencsv.exceptions.CsvRequiredFieldEmptyException;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -23,9 +20,9 @@ public class Main {
         ArrayList<List> tempList = new ArrayList<>();
 
         tempList.add(book1);
-        tempList.add(book2);
-        tempList.add(book3);
-        tempList.add(book4);
+//        tempList.add(book2);
+//        tempList.add(book3);
+//        tempList.add(book4);
 
 
         ExecutorService executor = Executors.newWorkStealingPool();
@@ -51,15 +48,13 @@ public class Main {
                         book.fetchData();
                         System.out.println("this is book searched words " + book.getSearchedWords().toString());
                         // probably next should take this function and convert to csv
-                        CSV tempCSV = new CSV(book.getSearchedWords(), 2);
+                        ArrayList<Word> bookWords = book.getSearchedWords();
+                        JSON tempJSON = new JSON();
+                        System.out.println("should pretty print");
                         try {
-                            tempCSV.convertToCSV();
+                            tempJSON.fileJSON(bookWords);
                         } catch(IOException e) {
-                            //
-                        } catch(CsvDataTypeMismatchException e){
-                            //
-                        } catch(CsvRequiredFieldEmptyException e) {
-                            //
+                            e.printStackTrace();
                         }
 
                     });

@@ -1,0 +1,3731 @@
+[
+  {
+    "searchedWord": "一",
+    "entries": [
+      {
+        "pronounciations": {
+          "頂": "いただき",
+          "戴き": "いただき",
+          "頂き": "いただき"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "crown (of head)",
+              "summit (of mountain)",
+              "spire"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "easy win for one"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "something received"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点": "ちょうてん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "vertex"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Mathematics"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Vertex (geometry)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上": "ちょうじょう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴く": "いただく",
+          "頂く": "いただく"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to receive",
+              "to get",
+              "to accept",
+              "to take",
+              "to buy"
+            ],
+            "partOfSpeech": [
+              "Godan verb with ku ending",
+              "Transitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to eat",
+              "to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Polite (teineigo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be crowned with",
+              "to wear (on one\u0027s head)",
+              "to have (on top)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "orig. meaning"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "to have (as one\u0027s leader)",
+              "to live under (a ruler)",
+              "to install (a president)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to get somebody to do something"
+            ],
+            "partOfSpeech": [
+              "Auxiliary verb",
+              "Godan verb with ku ending"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う もらう"
+            ],
+            "info": [
+              "follows a verb in \"-te\" form"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂戴": "ちょうだい",
+          "頂だい": "ちょうだい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "receiving",
+              "reception",
+              "getting",
+              "being given"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "eating",
+              "drinking",
+              "having"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "please",
+              "please do for me"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Familiar language",
+              "Female term or language",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "also used after -te forms"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いち",
+          "１": "いち",
+          "壱": "いち",
+          "壹": "いち",
+          "弌": "いち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric",
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "ワン"
+            ],
+            "info": [
+              "１ can also be read ワン. 壱, 弌 and 壹 are used in legal documents"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "best"
+            ],
+            "partOfSpeech": [
+              "No-adjective",
+              "Suffix"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "first",
+              "foremost"
+            ],
+            "partOfSpeech": [
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "beginning",
+              "start"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "bottom string (on a shamisen, etc.)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひとつ",
+          "１つ": "ひとつ",
+          "一つ": "ひとつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "for one thing"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "often used in itemized lists"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "only"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "after a noun"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "(not) even"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "with a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "just (e.g. \"just try it\")"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひと, ひ, ひい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "一 いち"
+            ],
+            "info": [
+              "esp. ひと"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "when counting aloud, usu. ひ or ひい"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いっち",
+          "逸": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Archaism"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "イー"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一致": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "coincidence",
+              "agreement",
+              "union",
+              "match"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "conformity",
+              "consistency"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "cooperation"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Icchi"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Agreement (linguistics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一番": "いちばん",
+          "１番": "いちばん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "number one",
+              "first",
+              "first place"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "best",
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "game",
+              "round",
+              "bout"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "as a test",
+              "as an experiment",
+              "by way of experiment",
+              "by way of trial",
+              "tentatively"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "試しに"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "song (e.g. in noh)",
+              "piece"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ichiban"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一しょ": "いっしょ",
+          "一緒": "いっしょ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "together"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "御一緒"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "at the same time"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "same",
+              "identical"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一昨年": "いっさくねん, おととし",
+          "おと年": "おととし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "year before last"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Temporal noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一寸": "ちょっと, ちょと",
+          "no kanji": "チョット, ちょいと, チョッと",
+          "鳥渡": "ちょっと, ちょと"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "a little",
+              "a bit",
+              "slightly"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "just a minute",
+              "for a moment",
+              "briefly"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "somewhat",
+              "rather",
+              "fairly",
+              "pretty",
+              "quite"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(not) easily",
+              "(not) readily"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "before a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "hey!",
+              "excuse me"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "天辺": "てっぺん, てへん, てっぺい",
+          "頂辺": "てっぺん, てへん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "apex",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "twelve o\u0027clock (usu. midnight)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Slang"
+            ],
+            "seeAlso": [],
+            "info": [
+              "often in てっぺんを回る or てっぺん回る"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "top of one\u0027s head",
+              "top of a helmet",
+              "(top of) scalp",
+              "crown"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Obscure term"
+            ],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂辺 when in kanji"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂きます": "いただきます",
+          "戴きます": "いただきます"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "expression of gratitude before meals"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴ける": "いただける",
+          "頂ける": "いただける"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to be able to receive",
+              "to be able to take",
+              "to be able to accept"
+            ],
+            "partOfSpeech": [
+              "Ichidan verb",
+              "intransitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰える"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be able to eat",
+              "to be able to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂く"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be acceptable",
+              "to be satisfactory"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂けない いただけない"
+            ],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点捕食者": "ちょうてんほしょくしゃ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "apex predator"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Apex predator"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上会談": "ちょうじょうかいだん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "summit conference"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "り"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "principle",
+              "logic"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "general principle (as opposed to individual concrete phenomenon)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Buddhist term"
+            ],
+            "seeAlso": [
+              "事 じ"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(in neo-Confucianism) the underlying principles of the cosmos"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "ことわり",
+          "理り": "ことわり"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "logic",
+              "sense",
+              "natural way of things"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理解": "りかい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "understanding",
+              "comprehension",
+              "appreciation",
+              "sympathy"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Understanding"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理想": "りそう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "ideal",
+              "ideals"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "現実"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ideal (ethics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理由": "りゆう, わけ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "pretext",
+              "motive"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理論": "りろん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Theory"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理性": "りせい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "reasoning power",
+              "(one\u0027s) sense"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Reason"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理科": "りか"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "science (inc. mathematics, medicine, etc.)",
+              "natural science"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "文科"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science department (university)",
+              "science course"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science (as a school subject)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理窟": "りくつ",
+          "理屈": "りくつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory",
+              "reason"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理容師": "りようし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "barber",
+              "hairdresser"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Barber"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "searchedWord": "頂",
+    "entries": [
+      {
+        "pronounciations": {
+          "頂": "いただき",
+          "戴き": "いただき",
+          "頂き": "いただき"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "crown (of head)",
+              "summit (of mountain)",
+              "spire"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "easy win for one"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "something received"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点": "ちょうてん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "vertex"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Mathematics"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Vertex (geometry)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上": "ちょうじょう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴く": "いただく",
+          "頂く": "いただく"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to receive",
+              "to get",
+              "to accept",
+              "to take",
+              "to buy"
+            ],
+            "partOfSpeech": [
+              "Godan verb with ku ending",
+              "Transitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to eat",
+              "to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Polite (teineigo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be crowned with",
+              "to wear (on one\u0027s head)",
+              "to have (on top)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "orig. meaning"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "to have (as one\u0027s leader)",
+              "to live under (a ruler)",
+              "to install (a president)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to get somebody to do something"
+            ],
+            "partOfSpeech": [
+              "Auxiliary verb",
+              "Godan verb with ku ending"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う もらう"
+            ],
+            "info": [
+              "follows a verb in \"-te\" form"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂戴": "ちょうだい",
+          "頂だい": "ちょうだい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "receiving",
+              "reception",
+              "getting",
+              "being given"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "eating",
+              "drinking",
+              "having"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "please",
+              "please do for me"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Familiar language",
+              "Female term or language",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "also used after -te forms"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いち",
+          "１": "いち",
+          "壱": "いち",
+          "壹": "いち",
+          "弌": "いち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric",
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "ワン"
+            ],
+            "info": [
+              "１ can also be read ワン. 壱, 弌 and 壹 are used in legal documents"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "best"
+            ],
+            "partOfSpeech": [
+              "No-adjective",
+              "Suffix"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "first",
+              "foremost"
+            ],
+            "partOfSpeech": [
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "beginning",
+              "start"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "bottom string (on a shamisen, etc.)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひとつ",
+          "１つ": "ひとつ",
+          "一つ": "ひとつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "for one thing"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "often used in itemized lists"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "only"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "after a noun"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "(not) even"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "with a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "just (e.g. \"just try it\")"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひと, ひ, ひい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "一 いち"
+            ],
+            "info": [
+              "esp. ひと"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "when counting aloud, usu. ひ or ひい"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いっち",
+          "逸": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Archaism"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "イー"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一致": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "coincidence",
+              "agreement",
+              "union",
+              "match"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "conformity",
+              "consistency"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "cooperation"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Icchi"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Agreement (linguistics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一番": "いちばん",
+          "１番": "いちばん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "number one",
+              "first",
+              "first place"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "best",
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "game",
+              "round",
+              "bout"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "as a test",
+              "as an experiment",
+              "by way of experiment",
+              "by way of trial",
+              "tentatively"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "試しに"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "song (e.g. in noh)",
+              "piece"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ichiban"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一しょ": "いっしょ",
+          "一緒": "いっしょ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "together"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "御一緒"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "at the same time"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "same",
+              "identical"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一昨年": "いっさくねん, おととし",
+          "おと年": "おととし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "year before last"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Temporal noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一寸": "ちょっと, ちょと",
+          "no kanji": "チョット, ちょいと, チョッと",
+          "鳥渡": "ちょっと, ちょと"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "a little",
+              "a bit",
+              "slightly"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "just a minute",
+              "for a moment",
+              "briefly"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "somewhat",
+              "rather",
+              "fairly",
+              "pretty",
+              "quite"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(not) easily",
+              "(not) readily"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "before a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "hey!",
+              "excuse me"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "天辺": "てっぺん, てへん, てっぺい",
+          "頂辺": "てっぺん, てへん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "apex",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "twelve o\u0027clock (usu. midnight)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Slang"
+            ],
+            "seeAlso": [],
+            "info": [
+              "often in てっぺんを回る or てっぺん回る"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "top of one\u0027s head",
+              "top of a helmet",
+              "(top of) scalp",
+              "crown"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Obscure term"
+            ],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂辺 when in kanji"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂きます": "いただきます",
+          "戴きます": "いただきます"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "expression of gratitude before meals"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴ける": "いただける",
+          "頂ける": "いただける"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to be able to receive",
+              "to be able to take",
+              "to be able to accept"
+            ],
+            "partOfSpeech": [
+              "Ichidan verb",
+              "intransitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰える"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be able to eat",
+              "to be able to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂く"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be acceptable",
+              "to be satisfactory"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂けない いただけない"
+            ],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点捕食者": "ちょうてんほしょくしゃ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "apex predator"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Apex predator"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上会談": "ちょうじょうかいだん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "summit conference"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "り"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "principle",
+              "logic"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "general principle (as opposed to individual concrete phenomenon)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Buddhist term"
+            ],
+            "seeAlso": [
+              "事 じ"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(in neo-Confucianism) the underlying principles of the cosmos"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "ことわり",
+          "理り": "ことわり"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "logic",
+              "sense",
+              "natural way of things"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理解": "りかい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "understanding",
+              "comprehension",
+              "appreciation",
+              "sympathy"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Understanding"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理想": "りそう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "ideal",
+              "ideals"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "現実"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ideal (ethics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理由": "りゆう, わけ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "pretext",
+              "motive"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理論": "りろん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Theory"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理性": "りせい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "reasoning power",
+              "(one\u0027s) sense"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Reason"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理科": "りか"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "science (inc. mathematics, medicine, etc.)",
+              "natural science"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "文科"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science department (university)",
+              "science course"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science (as a school subject)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理窟": "りくつ",
+          "理屈": "りくつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory",
+              "reason"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理容師": "りようし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "barber",
+              "hairdresser"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Barber"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "searchedWord": "理",
+    "entries": [
+      {
+        "pronounciations": {
+          "頂": "いただき",
+          "戴き": "いただき",
+          "頂き": "いただき"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "crown (of head)",
+              "summit (of mountain)",
+              "spire"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "easy win for one"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "something received"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "頂き,戴き"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点": "ちょうてん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "vertex"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Mathematics"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Vertex (geometry)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上": "ちょうじょう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴く": "いただく",
+          "頂く": "いただく"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to receive",
+              "to get",
+              "to accept",
+              "to take",
+              "to buy"
+            ],
+            "partOfSpeech": [
+              "Godan verb with ku ending",
+              "Transitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to eat",
+              "to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Polite (teineigo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be crowned with",
+              "to wear (on one\u0027s head)",
+              "to have (on top)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "orig. meaning"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "to have (as one\u0027s leader)",
+              "to live under (a ruler)",
+              "to install (a president)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to get somebody to do something"
+            ],
+            "partOfSpeech": [
+              "Auxiliary verb",
+              "Godan verb with ku ending"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰う もらう"
+            ],
+            "info": [
+              "follows a verb in \"-te\" form"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂戴": "ちょうだい",
+          "頂だい": "ちょうだい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "receiving",
+              "reception",
+              "getting",
+              "being given"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "eating",
+              "drinking",
+              "having"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "please",
+              "please do for me"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Familiar language",
+              "Female term or language",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "also used after -te forms"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いち",
+          "１": "いち",
+          "壱": "いち",
+          "壹": "いち",
+          "弌": "いち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric",
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "ワン"
+            ],
+            "info": [
+              "１ can also be read ワン. 壱, 弌 and 壹 are used in legal documents"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "best"
+            ],
+            "partOfSpeech": [
+              "No-adjective",
+              "Suffix"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "first",
+              "foremost"
+            ],
+            "partOfSpeech": [
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "beginning",
+              "start"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "bottom string (on a shamisen, etc.)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひとつ",
+          "１つ": "ひとつ",
+          "一つ": "ひとつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "for one thing"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "often used in itemized lists"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "only"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "after a noun"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "(not) even"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "with a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "just (e.g. \"just try it\")"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "ひと, ひ, ひい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Prefix"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "一 いち"
+            ],
+            "info": [
+              "esp. ひと"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": [
+              "when counting aloud, usu. ひ or ひい"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "いっち",
+          "逸": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Archaism"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一": "イー"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "one"
+            ],
+            "partOfSpeech": [
+              "Numeric"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一致": "いっち"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "coincidence",
+              "agreement",
+              "union",
+              "match"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "conformity",
+              "consistency"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "cooperation"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Icchi"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Agreement (linguistics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一番": "いちばん",
+          "１番": "いちばん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "number one",
+              "first",
+              "first place"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "best",
+              "most"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "game",
+              "round",
+              "bout"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "as a test",
+              "as an experiment",
+              "by way of experiment",
+              "by way of trial",
+              "tentatively"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "試しに"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "song (e.g. in noh)",
+              "piece"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ichiban"
+            ],
+            "partOfSpeech": [
+              "Place"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一しょ": "いっしょ",
+          "一緒": "いっしょ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "together"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "御一緒"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "at the same time"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "same",
+              "identical"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一昨年": "いっさくねん, おととし",
+          "おと年": "おととし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "year before last"
+            ],
+            "partOfSpeech": [
+              "Adverbial noun",
+              "Temporal noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "一寸": "ちょっと, ちょと",
+          "no kanji": "チョット, ちょいと, チョッと",
+          "鳥渡": "ちょっと, ちょと"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "a little",
+              "a bit",
+              "slightly"
+            ],
+            "partOfSpeech": [
+              "Adverb"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "just a minute",
+              "for a moment",
+              "briefly"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "somewhat",
+              "rather",
+              "fairly",
+              "pretty",
+              "quite"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(not) easily",
+              "(not) readily"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": [
+              "before a verb in negative form"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "hey!",
+              "excuse me"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "天辺": "てっぺん, てへん, てっぺい",
+          "頂辺": "てっぺん, てへん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "top",
+              "summit",
+              "apex",
+              "peak"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "twelve o\u0027clock (usu. midnight)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Slang"
+            ],
+            "seeAlso": [],
+            "info": [
+              "often in てっぺんを回る or てっぺん回る"
+            ]
+          },
+          {
+            "englishDefinition": [
+              "top of one\u0027s head",
+              "top of a helmet",
+              "(top of) scalp",
+              "crown"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone",
+              "Obscure term"
+            ],
+            "seeAlso": [],
+            "info": [
+              "esp. 頂辺 when in kanji"
+            ]
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂きます": "いただきます",
+          "戴きます": "いただきます"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "expression of gratitude before meals"
+            ],
+            "partOfSpeech": [
+              "Expression"
+            ],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "戴ける": "いただける",
+          "頂ける": "いただける"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "to be able to receive",
+              "to be able to take",
+              "to be able to accept"
+            ],
+            "partOfSpeech": [
+              "Ichidan verb",
+              "intransitive verb"
+            ],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "貰える"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be able to eat",
+              "to be able to drink"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Humble (kenjougo)",
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂く"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "to be acceptable",
+              "to be satisfactory"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Usually written using kana alone"
+            ],
+            "seeAlso": [
+              "頂けない いただけない"
+            ],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂点捕食者": "ちょうてんほしょくしゃ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "apex predator"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Apex predator"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "頂上会談": "ちょうじょうかいだん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "summit conference"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "り"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "principle",
+              "logic"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "general principle (as opposed to individual concrete phenomenon)"
+            ],
+            "partOfSpeech": [],
+            "tags": [
+              "Buddhist term"
+            ],
+            "seeAlso": [
+              "事 じ"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "(in neo-Confucianism) the underlying principles of the cosmos"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理": "ことわり",
+          "理り": "ことわり"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "logic",
+              "sense",
+              "natural way of things"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理解": "りかい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "understanding",
+              "comprehension",
+              "appreciation",
+              "sympathy"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "Suru verb"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Understanding"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理想": "りそう"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "ideal",
+              "ideals"
+            ],
+            "partOfSpeech": [
+              "Noun",
+              "No-adjective"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "現実"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Ideal (ethics)"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理由": "りゆう, わけ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "pretext",
+              "motive"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理論": "りろん"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Theory"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理性": "りせい"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "reason",
+              "reasoning power",
+              "(one\u0027s) sense"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Reason"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理科": "りか"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "science (inc. mathematics, medicine, etc.)",
+              "natural science"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [
+              "文科"
+            ],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science department (university)",
+              "science course"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "science (as a school subject)"
+            ],
+            "partOfSpeech": [],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理窟": "りくつ",
+          "理屈": "りくつ"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "theory",
+              "reason"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      },
+      {
+        "pronounciations": {
+          "理容師": "りようし"
+        },
+        "etymologies": [
+          {
+            "englishDefinition": [
+              "barber",
+              "hairdresser"
+            ],
+            "partOfSpeech": [
+              "Noun"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          },
+          {
+            "englishDefinition": [
+              "Barber"
+            ],
+            "partOfSpeech": [
+              "Wikipedia definition"
+            ],
+            "tags": [],
+            "seeAlso": [],
+            "info": []
+          }
+        ]
+      }
+    ]
+  }
+]
