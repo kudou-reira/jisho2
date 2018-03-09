@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -47,7 +48,7 @@ public class Main {
                     .forEach((book) -> {
                         System.out.println("this is book " + book);
                         book.fetchData();
-                        System.out.println("this is book searched words " + book.getSearchedWords().toString());
+                        System.out.println("this is FINAL book searched words " + book.getSearchedWords().toString());
                         // probably next should take this function and convert to csv
                         ArrayList<Word> bookWords = book.getSearchedWords();
                         JSON tempJSON = new JSON(bookWords);
@@ -55,8 +56,12 @@ public class Main {
 
                         // thinking about design now
                         // if i'm sending it to a server, then i'll bundle it all into an arraylist of json objects
+                        try {
+                            tempJSON.fileJSON();
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
 
-//                            tempJSON.fileJSON();
                         tempJSON.createJSON();
 //                        try {
 //                            tempJSON.postJSON();
