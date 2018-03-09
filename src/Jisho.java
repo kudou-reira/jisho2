@@ -42,39 +42,10 @@ public class Jisho {
 //    }
 
     public void fetchData() {
-
+        // maybe i should instantiate a word class, then put all the word stuff in there, separate classes
         wordList.parallelStream().forEach(word -> {
             query(word);
         });
-
-//        ExecutorService executor = Executors.newWorkStealingPool();
-
-        // later on have to create the array of words in books?
-        // here, it initializes jisho book (collection of words), but maybe it's better to initialize word by word in a different class
-        // iterate over arraylist of Lists and add lambda functions to them
-
-//        List<Callable<String>> callables = createWordList();
-//
-//        // the executor invokes all instantiating of a new object () -> new Jisho(book1); etc
-//
-//        try {
-//            executor.invokeAll(callables)
-//                    .stream()
-//                    .map(future -> {
-//                        try {
-//                            return future.get();
-//                        }
-//                        catch (Exception e) {
-//                            throw new IllegalStateException(e);
-//                        }
-//                    })
-//                    .forEach((word) -> {
-//                        query(word);
-//                        System.out.println("this is word " + word);
-//                    });
-//        } catch(InterruptedException e) {
-//            e.printStackTrace();
-//        }
     }
 
     private void query(String word) {
@@ -131,12 +102,15 @@ public class Jisho {
                     System.out.println("this is new entry");
                     entries.add(tempEntry);
 
+                    // entries is being interfered with by other instantiations of the concurrency
+                    System.out.println("this is all entries" + entries);
 
                     // probably have to make another collection object with the word inside
                 }
             } catch(IOException ie) {
                 ie.printStackTrace();
             }
+            System.out.println("this is searchedWords " + searchedWords);
 
             searchedWords.add(new Word(word, entries));
 

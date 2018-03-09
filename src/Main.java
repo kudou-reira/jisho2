@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -12,7 +11,8 @@ public class Main {
         // however, probably want these to be separated
         // jisho should take a single word
         // another class should hold the collection of jisho
-        List<String> book1 = Arrays.asList("一", "頂", "理");
+//        List<String> book1 = Arrays.asList("一", "頂", "理");
+        List<String> book1 = Arrays.asList("一", "頂");
         List<String> book2 = Arrays.asList("詰め", "堂", "射");
         List<String> book3 = Arrays.asList("吐き出", "綱渡り", "赤外");
         List<String> book4 = Arrays.asList("押しつける", "反省", "自覚");
@@ -45,17 +45,25 @@ public class Main {
                         }
                     })
                     .forEach((book) -> {
+                        System.out.println("this is book " + book);
                         book.fetchData();
                         System.out.println("this is book searched words " + book.getSearchedWords().toString());
                         // probably next should take this function and convert to csv
                         ArrayList<Word> bookWords = book.getSearchedWords();
-                        JSON tempJSON = new JSON();
+                        JSON tempJSON = new JSON(bookWords);
                         System.out.println("should pretty print");
-                        try {
-                            tempJSON.fileJSON(bookWords);
-                        } catch(IOException e) {
-                            e.printStackTrace();
-                        }
+
+                        // thinking about design now
+                        // if i'm sending it to a server, then i'll bundle it all into an arraylist of json objects
+
+//                            tempJSON.fileJSON();
+                        tempJSON.createJSON();
+//                        try {
+//                            tempJSON.postJSON();
+//                        } catch (IOException e) {
+//                            e.printStackTrace();
+//                        }
+
 
                     });
         } catch(InterruptedException e) {
